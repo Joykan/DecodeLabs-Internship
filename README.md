@@ -16,7 +16,7 @@ This repository contains all completed projects from the DecodeLabs Cybersecurit
 ## 📁 Projects
 
 ### Project 1: Password Strength Checker
-**📂 Folder:** [`p1/`](./p1/)  
+**📂 Folder:** [`Task-1-Joy Kandie/`](./Task-1-Joy%20Kandie/)  
 **🎯 Goal:** Evaluate password strength using security best practices.
 
 **Key Features:**
@@ -29,13 +29,13 @@ This repository contains all completed projects from the DecodeLabs Cybersecurit
 
 **How to Run:**
 ```bash
-py p1/password_checker.py
+py "Task-1-Joy Kandie/password_checker.py"
 ```
 
 ---
 
 ### Project 2: Basic Encryption & Decryption
-**📂 Folder:** [`p2/`](./p2/)  
+**📂 Folder:** [`Task-2-Joy Kandie/`](./Task-2-Joy%20Kandie/)  
 **🎯 Goal:** Implement classical ciphers to understand encryption fundamentals.
 
 **Key Features:**
@@ -49,16 +49,16 @@ py p1/password_checker.py
 **How to Run:**
 ```bash
 # CLI version
-py p2/caesar_cipher.py
+py "Task-2-Joy Kandie/caesar_cipher.py"
 
 # GUI version
-py p2/cipher_gui.py
+py "Task-2-Joy Kandie/cipher_gui.py"
 ```
 
 ---
 
 ### Project 3: Phishing Awareness Analysis
-**📂 Folder:** [`p3/`](./p3/)  
+**📂 Folder:** [`Task-3-Joy Kandie/`](./Task-3-Joy%20Kandie/)  
 **🎯 Goal:** Analyze emails/messages to identify phishing attempts and explain why they are unsafe.
 
 **Key Features:**
@@ -83,10 +83,10 @@ py p2/cipher_gui.py
 **How to Run:**
 ```bash
 # CLI version
-py p3/phishing_analyzer.py
+py "Task-3-Joy Kandie/phishing_analyzer.py"
 
 # GUI version
-py p3/phishing_gui.py
+py "Task-3-Joy Kandie/phishing_gui.py"
 ```
 
 **Sample Analysis Output:**
@@ -123,9 +123,9 @@ git clone https://github.com/Joykan/DecodeLabs-Internship.git
 cd DecodeLabs-Internship
 
 # Run any project
-py p1/password_checker.py
-py p2/cipher_gui.py
-py p3/phishing_gui.py
+py "Task-1-Joy Kandie/password_checker.py"
+py "Task-2-Joy Kandie/cipher_gui.py"
+py "Task-3-Joy Kandie/phishing_gui.py"
 ```
 
 ---
